@@ -1,11 +1,4 @@
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  
-</details>
+<p dir="auto"> Welcome to my GitHub repository showcasing my passion for data analytics, data science and software engineering!  </p>
 
 
 
@@ -14,7 +7,7 @@
 
 
 I hold a master's degree in business intelligence and big data analytics. Excited to start my journey as data analyst so i can show my skills
-[linkedin-url]: https://www.linkedin.com/in/belfadlafatimaezzahra/
+<i class="bi bi-linkedin">https://www.linkedin.com/in/belfadlafatimaezzahra/</i>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 

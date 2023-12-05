@@ -16,18 +16,7 @@ I hold a master's degree in business intelligence and big data analytics. Excite
 
 
 
-### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -53,23 +42,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p dir="auto">
+I am open to collaborations on interesting data science projects. Please feel free to reach out to me on LinkedIn or through GitHub for any inquiries or collaborations. Let's work together to find solutions and create innovative solutions!
+  <br>
+  LinkedIn: [Belfadla Fatima Ezzahra](<a href="https://www.linkedin.com/in/belfadlafatimaezzahra" rel="nofollow">https://www.linkedin.com/in/belfadlafatimaezzahra</a>)  💼🔗
+</p>
 
 
 

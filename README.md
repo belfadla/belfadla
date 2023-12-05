@@ -13,9 +13,14 @@ I hold a master's degree in business intelligence and big data analytics. Excite
 <a href="https://www.linkedin.com/in/belfadlafatimaezzahra" rel="nofollow"><img src="https://camo.githubusercontent.com/b8f34c1a4bde4129b54660c74acbec310a60200afceb99785e5afd42950160a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c617420737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat square&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a></p>
 
+## Desired Working Area
 
-
-
+<p dir="auto">
+I am interested in working in the following areas:<br>
+* Data Analytics 💻<br>
+* Data Science <br>
+* Web application ☁️ <br>
+</p>
 
 
 
@@ -27,14 +32,16 @@ I hold a master's degree in business intelligence and big data analytics. Excite
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Skills and Interests
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<p dir="auto">
+  <ul dir="auto">
+<li>I have expertise in data analytics, data management, and software engineering, using technologies such as Power BI, MSBI, Python, SQL, C#, JavaScript, and various databases (e.g., Postgre SQL, MongoDB, SQL Server, Azure). 💼🔧<br></li>
+<li>I am constantly learning and improving my skills in data science, cloud computing, and statistics. 🌱📈 <br></li>
+<li>I enjoy reading books, listening to music, and cycling/walking in the countryside as my hobbies. 📚🎧🚴‍ <br></li>
+<li>Fun fact: While developers love coffee, I prefer tea ❤️☕️. <br></li>
+</ul>
+</p>
 
 
 

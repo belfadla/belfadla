@@ -6,7 +6,7 @@
 ## About Me
 
 
-I hold a master's degree in business intelligence and big data analytics. Excited to start my journey as data analyst so i can show my skills
+I hold a master's degree in business intelligence and big data analytics. Excited to start my journey as data analyst so i can show my skills.
 <i class="bi bi-linkedin"></i>
 
 <p align="center" dir="auto">
@@ -17,8 +17,8 @@ I hold a master's degree in business intelligence and big data analytics. Excite
 
 <p dir="auto">
 I am interested in working in the following areas:<br>
-* Data Analytics 💻<br>
 * Data Science <br>
+* Data Analytics 💻<br>
 * Web application ☁️ <br>
 </p>
 
@@ -36,10 +36,9 @@ I am interested in working in the following areas:<br>
 
 <p dir="auto">
   <ul dir="auto">
-<li>I have expertise in data analytics, data management, and software engineering, using technologies such as Power BI, MSBI, Python, SQL, C#, JavaScript, and various databases (e.g., Postgre SQL, MongoDB, SQL Server, Azure). 💼🔧<br></li>
-<li>I am constantly learning and improving my skills in data science, cloud computing, and statistics. 🌱📈 <br></li>
+<li>I have expertise in data science, data analytics using technologies such as Power BI, Python, SQL, Php , JavaScript, and various databases (e.g., Postgre SQL, MongoDB, SQL Server, MySql). 💼🔧<br></li>
+<li>I am constantly learning and improving my skills in power bi 🌱📈 <br></li>
 <li>I enjoy reading books, listening to music, and cycling/walking in the countryside as my hobbies. 📚🎧🚴‍ <br></li>
-<li>Fun fact: While developers love coffee, I prefer tea ❤️☕️. <br></li>
 </ul>
 </p>
 

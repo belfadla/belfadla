@@ -6,7 +6,7 @@
 ## About Me
 
 
-I hold a master's degree in business intelligence and big data analytics. Excited to start my journey as data scientist/analyst.I look forward to showcasing my skills and contributing to the field
+Freshly graduated with a master's degree in business intelligence and big data analytics. Excited to start my journey as data scientist/analyst.I look forward to showcasing my skills and contributing to the field
 <i class="bi bi-linkedin"></i>
 
 <p align="center" dir="auto">
